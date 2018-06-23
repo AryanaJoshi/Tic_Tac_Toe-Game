@@ -1,0 +1,6 @@
+A two player game
+Features:
+1. two players on same computer
+2. the board print outs everytime a player makes a move
+3. accept the impt of each player position and then place a symbol on the position.
+4. the board is designed like the keypad in the laptops ie 1,2,3 is at the bottom row and 7,8,9 on the top.
